@@ -16,3 +16,5 @@ local.properties
 
 # Runtime and crash logs
 *.log
+
+/.idea/
